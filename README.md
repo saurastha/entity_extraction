@@ -1,7 +1,7 @@
 # Entity Extraction and Question Answer
 
 ### Overview
-This project focuses on extraction of entities (subject, object and their relationship, usually given by verb, and build a directed graph using the extracted entities. The graph is then saved and used for Question Answering user queries which is in natural language.
+This project focuses on extraction of entities (subject, object and their relationship, usually given by verb) and build a directed graph using the extracted entities. The graph is then saved and used for Question Answering user queries which is in natural language.
 
 ### Installation
 All the required packages are listed in **requirements.txt** file. Install the dependencies as:
@@ -30,6 +30,6 @@ Finally, the stored information is used in order to answer user query. Since the
 
 
 ### Graph Database Visualization
-!([Graph_Visualize.png](https://github.com/saurastha/entity_extraction/blob/master/Graph_Visualize.png))
+![Graph_Visualize.png](https://github.com/saurastha/entity_extraction/blob/master/Graph_Visualize.png)
 
 
