@@ -30,6 +30,6 @@ Finally, the stored information is used in order to answer user query. Since the
 
 
 ### Graph Database Visualization
-!(Graph_Visualize.png)
+!([Graph_Visualize.png](https://github.com/saurastha/entity_extraction/blob/master/Graph_Visualize.png))
 
 
